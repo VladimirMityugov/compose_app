@@ -1,5 +1,5 @@
 # Jetpack Compose
-### Still know nothing about such guys as Rick and Morty, so this app is for you
+### Still know nothing about such guys as Rick and Morty?! This app is for you then
 
 **The application allows to get familiar with characters from Rick and Morty universe**
 
